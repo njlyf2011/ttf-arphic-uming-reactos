@@ -2,13 +2,13 @@
 
 See the original README file : [README.origin](README.origin) .
 
-The unmodified font source files are in the [master branch](ttf-arphic-uming-reactos/tree/master).
+The unmodified font source files are in the [master branch](https://github.com/jsluke2021/ttf-arphic-uming-reactos/tree/master).
 
 This is a package of AR PL UMing fonts for ReactOS. It is only supported for Simplified Chinese (PRC), Traditional Chinese (Hong Kong and Taiwan). 
 
 This font was developed by Arphic Technology Co., Ltd. in Taiwan. 
 
-Releases: [click here](ttf-arphic-uming-reactos/releases).
+Releases: [click here](https://github.com/jsluke2021/ttf-arphic-uming-reactos/releases).
 
 ![This is an example.](Example.png)
 
