@@ -8,7 +8,7 @@ This is a package of AR PL UMing fonts for ReactOS. It is only supported for Sim
 
 This font was developed by Arphic Technology Co., Ltd. in Taiwan. 
 
-Releases: [click here](https://github.com/jsluke2021/ttf-arphic-uming-reactos/releases).
+Releases: [click here](https://github.com/njlyf2011/ttf-arphic-uming-reactos/releases).
 
 ![This is an example.](Example.png)
 
